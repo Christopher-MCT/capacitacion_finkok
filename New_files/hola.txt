@@ -1,0 +1,4 @@
+Hola este es un simple script
+
+for i in range(0,11)
+print(" hola mundo")
